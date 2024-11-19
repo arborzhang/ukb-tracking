@@ -1,0 +1,6 @@
+"Code","Description","Condition","Sub-condition"
+"I10","Essential (primary) hypertension","Cardiovascular Disease","Hypertension"
+"I11","Hypertensive heart disease","Cardiovascular Disease","Hypertension"
+"I12","Hypertensive chronic kidney disease","Cardiovascular Disease","Hypertension"
+"I13","Hypertensive heart and chronic kidney disease","Cardiovascular Disease","Hypertension"
+"I15","Secondary hypertension","Cardiovascular Disease","Hypertension"
