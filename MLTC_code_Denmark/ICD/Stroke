@@ -1,0 +1,4 @@
+"Code","Description","Condition","Sub-condition"
+"I60","Subarachnoid haemorrhage","Stroke","Ischaemic stroke"
+"I64","Stroke, not specified as haemorrhage or infarction","Stroke","Ischaemic stroke"
+"I69","Sequelae of cerebral infarction","Stroke","Ischaemic stroke"
