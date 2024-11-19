@@ -1,0 +1,7 @@
+"Code","Description","Condition","Sub-condition"
+"F00","Dementia in Alzheimer's disease","Mental Health","Dementia"
+"F01","Vascular dementia","Mental Health","Dementia"
+"F02","Dementia in other diseases classified elsewhere","Mental Health","Dementia"
+"F03","Unspecified dementia","Mental Health","Dementia"
+"F05.1","Delirium superimposed on dementia","Mental Health","Dementia"
+"G30","Alzheimer's disease","Mental Health","Dementia"
