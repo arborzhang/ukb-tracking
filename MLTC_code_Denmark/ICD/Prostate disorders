@@ -1,0 +1,7 @@
+"Code","Description","Condition","Sub-condition"
+"N40","Benign prostatic hyperplasia","Prostate Disorders","BPH"
+"N40.0","Benign prostatic hyperplasia without lower urinary tract symptoms","Prostate Disorders","BPH"
+"N40.1","Benign prostatic hyperplasia with lower urinary tract symptoms","Prostate Disorders","BPH"
+"N40.2","Nodular prostate without lower urinary tract symptoms","Prostate Disorders","BPH"
+"N40.3","Nodular prostate with lower urinary tract symptoms","Prostate Disorders","BPH"
+"N40.9","Enlarged prostate without lower urinary tract symptoms","Prostate Disorders","BPH"
