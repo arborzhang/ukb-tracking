@@ -1,0 +1,6 @@
+"Code","Description","Condition","Sub-condition"
+"I70","Atherosclerosis","Cardiovascular Disease","Peripheral Artery Disease"
+"I71","Aortic aneurysm and dissection","Cardiovascular Disease","Peripheral Artery Disease"
+"I72","Other aneurysm and dissection","Cardiovascular Disease","Peripheral Artery Disease"
+"I73","Other peripheral vascular diseases","Cardiovascular Disease","Peripheral Artery Disease"
+"I74","Arterial embolism and thrombosis","Cardiovascular Disease","Peripheral Artery Disease"
