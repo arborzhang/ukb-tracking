@@ -1,0 +1,4 @@
+"Code","Description","Condition","Sub-condition"
+"G20","Parkinson's disease","Neurological","Parkinson's"
+"G21","Secondary parkinsonism","Neurological","Parkinson's"
+"G22","Parkinsonism in diseases classified elsewhere","Neurological","Parkinson's"
