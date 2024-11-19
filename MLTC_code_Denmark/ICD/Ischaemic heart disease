@@ -1,0 +1,7 @@
+"Code","Description","Condition","Sub-condition"
+"I20","Angina pectoris","Cardiovascular Disease","Ischemic Heart Disease"
+"I21","Acute myocardial infarction","Cardiovascular Disease","Ischemic Heart Disease"
+"I22","Subsequent myocardial infarction","Cardiovascular Disease","Ischemic Heart Disease"
+"I23","Complications following acute myocardial infarction","Cardiovascular Disease","Ischemic Heart Disease"
+"I24","Other acute ischemic heart diseases","Cardiovascular Disease","Ischemic Heart Disease"
+"I25","Chronic ischemic heart disease","Cardiovascular Disease","Ischemic Heart Disease"
