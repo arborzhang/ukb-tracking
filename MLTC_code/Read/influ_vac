@@ -1,0 +1,39 @@
+Code,Description,Condition,Sub.condition
+65E..,Influenza vaccination,Influenza vaccination,Influenza vaccination
+65E0.,First pandemic influenza vaccination,Influenza vaccination,Pandemic vaccination
+65E1.,Second pandemic influenza vaccination,Influenza vaccination,Pandemic vaccination
+65E2.,Influenza vaccination given by other healthcare provider,Influenza vaccination,Vaccination by other provider
+65E20,Seasonal influenza vaccination given by other healthcare provider,Influenza vaccination,Seasonal vaccination by other provider
+65E21,First intranasal seasonal influenza vaccination given by other healthcare provider,Influenza vaccination,Intranasal seasonal vaccination
+65E22,Second intranasal seasonal influenza vaccination given by other healthcare provider,Influenza vaccination,Intranasal seasonal vaccination
+65E23,Second intramuscular seasonal influenza vaccination given by other healthcare provider,Influenza vaccination,Intramuscular seasonal vaccination
+65E24,First intramuscular seasonal influenza vaccination given by other healthcare provider,Influenza vaccination,Intramuscular seasonal vaccination
+65E3.,First pandemic influenza vaccination given by other healthcare provider,Influenza vaccination,Pandemic vaccination by other provider
+65E4.,Second pandemic influenza vaccination given by other healthcare provider,Influenza vaccination,Pandemic vaccination by other provider
+65E5.,CELVAPAN - first influenza A (H1N1v) 2009 vaccination given,Influenza vaccination,H1N1 vaccination
+65E6.,CELVAPAN - second influenza A (H1N1v) 2009 vaccination given,Influenza vaccination,H1N1 vaccination
+65E7.,CELVAPAN - first influenza A (H1N1v) 2009 vaccination given by other healthcare provider,Influenza vaccination,H1N1 vaccination by other provider
+65E8.,CELVAPAN - second influenza A (H1N1v) 2009 vaccination given by other healthcare provider,Influenza vaccination,H1N1 vaccination by other provider
+65E9.,PANDEMRIX - first influenza A (H1N1v) 2009 vaccination given,Influenza vaccination,H1N1 vaccination
+65EA.,PANDEMRIX - second influenza A (H1N1v) 2009 vaccination given,Influenza vaccination,H1N1 vaccination
+65EB.,PANDEMRIX - first influenza A (H1N1v) 2009 vaccination given by other healthcare provider,Influenza vaccination,H1N1 vaccination by other provider
+65EC.,PANDEMRIX - second influenza A (H1N1v) 2009 vaccination given by other healthcare provider,Influenza vaccination,H1N1 vaccination by other provider
+65ED.,Seasonal influenza vaccination,Influenza vaccination,Seasonal vaccination
+65ED0,Seasonal influenza vaccination given by pharmacist,Influenza vaccination,Seasonal vaccination by pharmacist
+65ED1,Administration of first intranasal seasonal influenza vaccination,Influenza vaccination,Intranasal seasonal vaccination
+65EE.,Administration of intranasal influenza vaccination,Influenza vaccination,Intranasal vaccination
+65EE0,Administration of first intranasal influenza vaccination,Influenza vaccination,Intranasal vaccination
+65EE1,Administration of second intranasal influenza vaccination,Influenza vaccination,Intranasal vaccination
+9OX..,Flu vaccination administration,Influenza vaccination,Vaccination administration
+9OX1.,Has influenza vaccination at home,Influenza vaccination,Vaccination at home
+9OX2.,Has influenza vaccination at surgery,Influenza vaccination,Vaccination at surgery
+9OX3.,Has influenza vaccination at hospital,Influenza vaccination,Vaccination at hospital
+9OX8.,Has influenza vaccination at work,Influenza vaccination,Vaccination at work
+9OXZ.,Influenza vaccination administration NOS,Influenza vaccination,Vaccination administration
+9k7..,Influenza immunisation for those in 65 years and over and other at risk groups - enhanced services administration,Influenza vaccination,Enhanced services vaccination
+ZV048,[V] Influenza vaccination,Influenza vaccination,Influenza vaccination
+XaK9t,Influenza immunisation for those in 65 years and over and other at risk groups - enhanced services administration,Influenza vaccination,Enhanced services vaccination
+XaKNY,Has influenza vaccination at work,Influenza vaccination,Vaccination at work
+XaLK4,Booster influenza vaccination,Influenza vaccination,Booster vaccination
+XaLNG,First pandemic influenza vaccination,Influenza vaccination,Pandemic vaccination
+XaIpe,Influenza vaccination,Influenza vaccination,Influenza vaccination
